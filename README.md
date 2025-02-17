@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm interested to learning DS and ML<br>🎯 Goals: Publish valuable content that can show the process I have taken on my learning path.<br>🎲 Fun fact: I just started exploring the world of **AI**, tinkering with **machine learning models**, and enjoying a DIY electronics project. 🚗🤖</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Publish valuable content that can show the process I have taken on my learning path.<br>🎲Fun fact: I just started exploring the world of AI, tinkering with machine learning models and enjoying DIY electronics projects. 🚗🤖</p>
 
 ###
 
